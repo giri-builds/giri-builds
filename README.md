@@ -2,7 +2,7 @@
 <!--                   Header Banner                             -->
 <!-- ============================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=220&section=header&text=GB%20-%20Giri%20Builds&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Engineering%20data%20systems%20and%20AI%20solutions%20at%20scale&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=220&section=header&text=gb%20-%20Giri%20Builds&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Engineering%20data%20systems%20and%20AI%20solutions%20at%20scale&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- ============================================================ -->
 <!--                Profile Views + Typing                       -->
