@@ -37,10 +37,29 @@
 - Building AI-powered applications with RAG, agents, and tool use
 - End-to-end data platform design using Airflow, Spark, Snowflake, and AWS
 - Monitoring and observability with OpenTelemetry, Grafana, and Datadog
+- **AWS Certified AI Practitioner** — [Verify on Credly](https://www.credly.com/badges/625c0504-9735-4e2c-ab1e-c90de28c8fa4/linked_in_profile)
 - Currently focused on **Generative AI**, **LLM-based solutions**, and **AI agents**
 - Preparing for **AI Engineer** and **Staff Data Engineer** roles at top companies
 
 <br clear="right"/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,12,20&height=5" width="100%"/>
+
+<!-- ============================================================ -->
+<!--                    Certifications                           -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+## Certifications
+
+<a href="https://www.credly.com/badges/625c0504-9735-4e2c-ab1e-c90de28c8fa4/linked_in_profile">
+  <img src="aws-certified-ai-practitioner.png" width="150" alt="AWS Certified AI Practitioner"/>
+</a>
+
+**AWS Certified AI Practitioner** (Foundational)
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,12,20&height=5" width="100%"/>
 
