@@ -24,16 +24,13 @@
 <!--                      About Me                               -->
 <!-- ============================================================ -->
 
-<table>
-<tr>
-<td width="35%" align="center">
-
-<img src="giri-builds-avatar.jpg" width="300" alt="Giri Builds" style="border-radius: 16px;"/>
-
-</td>
-<td width="65%">
+<div align="center">
 
 ## About Me
+
+</div>
+
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 - **AI Engineer & Senior Data Engineer** with 12+ years of experience
 - Architecting large-scale data pipelines and high-throughput distributed systems
@@ -43,9 +40,7 @@
 - Currently focused on **Generative AI**, **LLM-based solutions**, and **AI agents**
 - Preparing for **AI Engineer** and **Staff Data Engineer** roles at top companies
 
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,12,20&height=5" width="100%"/>
 
