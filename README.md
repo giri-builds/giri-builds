@@ -2,7 +2,7 @@
 <!--                   Header Banner                             -->
 <!-- ============================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=220&section=header&text=gb%20-%20Giri%20Builds&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Tech%20Lead%20-%20AI%20Engineer%20%7C%20Agentic%20AI%2C%20LLM%20Systems%20%26%20RAG&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=220&section=header&text=gb%20-%20Giri%20Builds&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Agentic%20AI%20%C2%B7%20LLM%20Systems%20%C2%B7%20RAG%20%C2%B7%20MCP&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- ============================================================ -->
 <!--                Profile Views + Typing                       -->
@@ -260,7 +260,7 @@ Local-first · Newsletter Agent
 </td>
 <td align="center">
   <a href="https://github.com/giri-builds/gb-sage">
-    <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="45" alt="LangChain"/><br/>
+    <img src="https://cdn.simpleicons.org/langchain/1C93E3" height="45" alt="LangChain"/><br/>
     <sub>LangChain</sub>
   </a>
 </td>
