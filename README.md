@@ -2,7 +2,7 @@
 <!--                   Header Banner                             -->
 <!-- ============================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=220&section=header&text=gb%20-%20Giri%20Builds&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Engineering%20data%20systems%20and%20AI%20solutions%20at%20scale&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=220&section=header&text=gb%20-%20Giri%20Builds&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Tech%20Lead%20-%20AI%20Engineer%20%7C%20Agentic%20AI%2C%20LLM%20Systems%20%26%20RAG&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- ============================================================ -->
 <!--                Profile Views + Typing                       -->
@@ -94,10 +94,10 @@
 
 **[naa-JourneyS](https://github.com/giri-builds/naa-JourneyS)**
 
-My developer journey & portfolio — projects, learning path, and career milestones as a live site.
+A personal life-journey website with an AI-powered chatbot that answers questions about my life story using Retrieval-Augmented Generation (RAG).
 
 ```
-Portfolio -> Projects -> Journey
+Life Story -> RAG -> Chatbot
 GitHub Pages · Static Site
 ```
 
@@ -111,7 +111,7 @@ GitHub Pages · Static Site
 
 **[gb-wiki](https://github.com/giri-builds/gb-wiki)**
 
-LLM-maintained knowledge wiki built with Claude Code — turns raw sources into browsable docs.
+An LLM-maintained knowledge wiki — a human curates raw sources (PDFs, markdown, HTML) and Claude Code extracts structured knowledge into a browsable, Wikipedia-style HTML site.
 
 ```
 PDFs / MD / HTML -> Extraction
@@ -119,7 +119,7 @@ Schema-driven -> Static Wiki
 ```
 
 ![](https://img.shields.io/badge/Claude%20Code-0891b2?style=flat-square)
-![](https://img.shields.io/badge/RAG%20Extraction-0891b2?style=flat-square)
+![](https://img.shields.io/badge/Knowledge%20Wiki-0891b2?style=flat-square)
 ![](https://img.shields.io/badge/Wikipedia--style-0891b2?style=flat-square)
 
 **Built with:** Claude Code | Schema-driven extraction | Static HTML
@@ -129,16 +129,16 @@ Schema-driven -> Static Wiki
 
 **[gb-sage](https://github.com/giri-builds/gb-sage)**
 
-AI assistant powered by RAG and agentic workflows — retrieval-grounded Q&A with tool use.
+Local-first RAG chatbot + scheduled newsletter agent over personal engineering knowledge bases — an interview-prep tool with grounded, cited answers and a portfolio artifact for an AI Engineer transition.
 
 ```
-Retrieval -> Grounding -> Answer
-Agents · Tool Use · MCP
+Retrieval -> Grounding -> Cited Answer
+Local-first · Newsletter Agent
 ```
 
 ![](https://img.shields.io/badge/RAG-f97316?style=flat-square)
-![](https://img.shields.io/badge/AI%20Agent-f97316?style=flat-square)
-![](https://img.shields.io/badge/Tool%20Use-f97316?style=flat-square)
+![](https://img.shields.io/badge/Local--first-f97316?style=flat-square)
+![](https://img.shields.io/badge/Newsletter%20Agent-f97316?style=flat-square)
 
 **Stack:** RAG | Agentic workflows | LangChain | Qdrant
 
@@ -168,6 +168,7 @@ Agents · Tool Use · MCP
 | **Storage** | Snowflake, PostgreSQL, MySQL, Data Lake architecture |
 | **DevOps** | Docker, Kubernetes, Helm, CI/CD, Terraform, GitHub Actions |
 | **Observability** | Datadog, Grafana, Splunk, PagerDuty |
+| **Exploring** | AWS Bedrock (Agents/Guardrails), SageMaker, LangGraph, pgvector, OpenSearch k-NN, LLM tracing (Langfuse) |
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,12,20&height=5" width="100%"/>
 
@@ -253,7 +254,7 @@ Agents · Tool Use · MCP
 </td>
 <td align="center">
   <a href="https://github.com/giri-builds/gb-sage">
-    <img src="https://cdn.simpleicons.org/anthropic/191919" height="45" alt="Claude"/><br/>
+    <img src="https://cdn.simpleicons.org/anthropic/D97757" height="45" alt="Claude"/><br/>
     <sub>Claude</sub>
   </a>
 </td>
@@ -310,7 +311,7 @@ Agents · Tool Use · MCP
 
 <div align="center">
 
-*Engineering data systems and AI solutions at scale.*
+*Shipping production AI — agentic workflows, RAG systems & MCP servers at scale.*
 
 </div>
 
