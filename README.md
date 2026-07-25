@@ -14,7 +14,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=750&lines=AI+Engineer+%26+Senior+Data+Engineer+%7C+12%2B+Years;Spark+%C2%B7+Airflow+%C2%B7+Kafka+%C2%B7+Snowflake+%C2%B7+AWS;RAG+%C2%B7+AI+Agents+%C2%B7+MCP+%C2%B7+LangChain+%C2%B7+Claude;Building+the+bridge+between+Data+%26+AI+Engineering" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=750&lines=Tech+Lead+%26+AI+Engineer+%7C+12%2B+Years;Agentic+AI+%C2%B7+LLM+Systems+%C2%B7+RAG+%C2%B7+MCP;Claude+%C2%B7+LangChain+%C2%B7+Qdrant+%C2%B7+AWS;Spark+%C2%B7+Airflow+%C2%B7+Snowflake+%C2%B7+Kubernetes;Shipping+production+AI+that+is+secure+%26+reliable" alt="Typing SVG"/>
 
 </div>
 
@@ -32,14 +32,13 @@
 
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- **AI Engineer & Senior Data Engineer** with 12+ years of experience
-- Architecting large-scale data pipelines and high-throughput distributed systems
-- Building AI-powered applications with RAG, agents, and tool use
-- End-to-end data platform design using Airflow, Spark, Snowflake, and AWS
-- Monitoring and observability with OpenTelemetry, Grafana, and Datadog
-- **AWS Certified AI Practitioner** — [Verify on Credly](https://www.credly.com/badges/625c0504-9735-4e2c-ab1e-c90de28c8fa4/linked_in_profile)
-- Currently focused on **Generative AI**, **LLM-based solutions**, and **AI agents**
-- Preparing for **AI Engineer** and **Staff Data Engineer** roles at top companies
+- **Tech Lead — AI Engineer** with 12+ years building and operating production-grade AI systems, large-scale data pipelines, and cloud-native platforms
+- Setting technical direction for **LLM-powered agentic workflows, RAG systems, and MCP servers** at Apple Ad Platforms
+- Designing task-oriented agents (planner/executor, tool routing, HITL checkpoints, fallbacks) and evaluation strategies for non-deterministic systems
+- Built an AI-assisted code-migration pipeline (Claude Opus + Qdrant + LibCST) automating Airflow 2.9.2 → 3.2.0 across **1000+ production DAGs — cutting manual effort by 80%**
+- Deep AWS + Kubernetes background with strong ownership of observability, CI/CD, and operational excellence — sustaining **99.99% uptime**
+- **AWS Certified AI Practitioner** — [Verify on Credly](https://www.credly.com/badges/625c0504-9735-4e2c-ab1e-c90de28c8fa4/linked_in_profile) · *AWS ML Associate/Specialty in progress*
+- Portfolio: [giri-builds.github.io/naa-JourneyS](https://giri-builds.github.io/naa-JourneyS/)
 
 <br clear="right"/>
 
@@ -58,6 +57,8 @@
 </a>
 
 **AWS Certified AI Practitioner** (Foundational)
+
+*AWS Certified Machine Learning – Associate/Specialty — in progress*
 
 </div>
 
@@ -146,14 +147,14 @@ AWS -> Docker -> K8s -> Observability
 
 | Area | Expertise |
 |------|-----------|
+| **GenAI / LLM** | Agentic AI (planner/executor, tool routing, HITL, fallbacks), RAG, prompt engineering & versioning, LLM evaluation (functional/safety/latency/cost), guardrails & PII redaction |
+| **AI Tooling** | MCP servers, Claude Code, LangChain, Qdrant vector DB, context engineering, embeddings & reranking |
 | **Big Data** | Spark, PySpark, Hadoop, Hive, distributed computing at scale |
-| **Pipelines** | Airflow, ETL/ELT, CDC, batch and streaming architectures |
-| **Cloud** | AWS (S3, Glue, EMR, Redshift, Kinesis, Athena, EKS) |
-| **Storage** | Snowflake, PostgreSQL, DynamoDB, Delta Lake, Iceberg |
-| **Streaming** | Kafka, Spark Structured Streaming, event-driven architectures |
-| **AI/ML** | RAG pipelines, LLM agents, tool use, embeddings, vector databases |
-| **DevOps** | Docker, Kubernetes, CI/CD, Terraform, GitOps |
-| **Observability** | OpenTelemetry, Grafana, Datadog, CloudWatch, Prometheus |
+| **Pipelines** | Airflow, ETL/ELT, batch and streaming architectures, data warehousing |
+| **Cloud** | AWS (EMR, EKS, EC2, S3, Lambda, Athena, RDS, VPC, IAM) |
+| **Storage** | Snowflake, PostgreSQL, MySQL, Data Lake architecture |
+| **DevOps** | Docker, Kubernetes, Helm, CI/CD, Terraform, GitHub Actions |
+| **Observability** | Datadog, Grafana, Splunk, PagerDuty |
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,12,20&height=5" width="100%"/>
 
@@ -282,7 +283,7 @@ AWS -> Docker -> K8s -> Observability
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dastagiri-vadapalli-ai-data-engineer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dastagiri-vadapalli-ai-engineer)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/giri-builds)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dastagirivadapalli@gmail.com)
 
