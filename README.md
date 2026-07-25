@@ -30,8 +30,6 @@
 
 </div>
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
 - **Tech Lead — AI Engineer** with 12+ years building and operating production-grade AI systems, large-scale data pipelines, and cloud-native platforms
 - Setting technical direction for **LLM-powered agentic workflows, RAG systems, and MCP servers** at Apple Ad Platforms
 - Designing task-oriented agents (planner/executor, tool routing, HITL checkpoints, fallbacks) and evaluation strategies for non-deterministic systems
@@ -39,8 +37,6 @@
 - Deep AWS + Kubernetes background with strong ownership of observability, CI/CD, and operational excellence — sustaining **99.99% uptime**
 - **AWS Certified AI Practitioner** — [Verify on Credly](https://www.credly.com/badges/625c0504-9735-4e2c-ab1e-c90de28c8fa4/linked_in_profile) · *AWS ML Associate/Specialty in progress*
 - Portfolio: [giri-builds.github.io/naa-JourneyS](https://giri-builds.github.io/naa-JourneyS/)
-
-<br clear="right"/>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,12,20&height=5" width="100%"/>
 
@@ -94,40 +90,57 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**[ai-engineering](https://github.com/giri-builds/ai-engineering)**
+**[naa-JourneyS](https://github.com/giri-builds/naa-JourneyS)**
 
-Knowledge base and project portfolio for AI Engineering — from RAG to production agents.
+My developer journey & portfolio — projects, learning path, and career milestones as a live site.
 
 ```
-Fundamentals -> RAG -> Agents -> MCP
-Prompt Engineering -> LLMOps -> Deployment
+Portfolio -> Projects -> Journey
+GitHub Pages · Static Site
 ```
 
-![](https://img.shields.io/badge/5%20Projects-0891b2?style=flat-square)
-![](https://img.shields.io/badge/12%20Doc%20Sections-0891b2?style=flat-square)
-![](https://img.shields.io/badge/Interview%20Ready-0891b2?style=flat-square)
+![](https://img.shields.io/badge/Portfolio-6366f1?style=flat-square)
+![](https://img.shields.io/badge/Live%20Site-6366f1?style=flat-square)
 
-**Projects:** RAG Chatbot | AI Code Reviewer | MCP Server | Document Q&A | Local AI Assistant
+**[Visit the site »](https://giri-builds.github.io/naa-JourneyS/)**
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**[data-engineering](https://github.com/giri-builds/data-engineering)**
+**[gb-wiki](https://github.com/giri-builds/gb-wiki)**
 
-Knowledge base and interview prep for Data Engineering — Spark to Snowflake to production.
+LLM-maintained knowledge wiki built with Claude Code — turns raw sources into browsable docs.
 
 ```
-SQL -> Spark -> Airflow -> Kafka
-AWS -> Docker -> K8s -> Observability
+PDFs / MD / HTML -> Extraction
+Schema-driven -> Static Wiki
 ```
 
-![](https://img.shields.io/badge/5%20Projects-f97316?style=flat-square)
-![](https://img.shields.io/badge/22%20Doc%20Sections-f97316?style=flat-square)
-![](https://img.shields.io/badge/Staff%20Level-f97316?style=flat-square)
+![](https://img.shields.io/badge/Claude%20Code-0891b2?style=flat-square)
+![](https://img.shields.io/badge/RAG%20Extraction-0891b2?style=flat-square)
+![](https://img.shields.io/badge/Wikipedia--style-0891b2?style=flat-square)
 
-**Projects:** Batch Pipeline | Streaming Pipeline | Data Lakehouse | dbt Analytics | Airflow Orchestrator
+**Built with:** Claude Code | Schema-driven extraction | Static HTML
+
+</td>
+<td width="33%" valign="top">
+
+**[gb-sage](https://github.com/giri-builds/gb-sage)**
+
+AI assistant powered by RAG and agentic workflows — retrieval-grounded Q&A with tool use.
+
+```
+Retrieval -> Grounding -> Answer
+Agents · Tool Use · MCP
+```
+
+![](https://img.shields.io/badge/RAG-f97316?style=flat-square)
+![](https://img.shields.io/badge/AI%20Agent-f97316?style=flat-square)
+![](https://img.shields.io/badge/Tool%20Use-f97316?style=flat-square)
+
+**Stack:** RAG | Agentic workflows | LangChain | Qdrant
 
 </td>
 </tr>
@@ -183,89 +196,89 @@ AWS -> Docker -> K8s -> Observability
 <table>
 <tr>
 <td align="center">
-  <a href="https://github.com/giri-builds/data-engineering/blob/main/docs/fundamentals/python-for-de.md">
+  <a href="https://github.com/giri-builds/gb-wiki">
     <img src="https://skillicons.dev/icons?i=python&theme=dark" height="45" alt="Python"/><br/>
     <sub>Python</sub>
   </a>
 </td>
 <td align="center">
-  <a href="https://github.com/giri-builds/data-engineering/blob/main/docs/big-data/spark-deep-dive.md">
+  <a href="https://github.com/giri-builds/gb-wiki">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" height="45" alt="Spark"/><br/>
     <sub>Spark</sub>
   </a>
 </td>
 <td align="center">
-  <a href="https://github.com/giri-builds/data-engineering/blob/main/docs/pipelines/airflow-deep-dive.md">
+  <a href="https://github.com/giri-builds/gb-wiki">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" height="45" alt="Airflow"/><br/>
     <sub>Airflow</sub>
   </a>
 </td>
 <td align="center">
-  <a href="https://github.com/giri-builds/data-engineering/blob/main/docs/streaming/kafka-fundamentals.md">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" height="45" alt="Kafka"/><br/>
-    <sub>Kafka</sub>
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/giri-builds/data-engineering/blob/main/docs/cloud-aws/aws-data-services.md">
-    <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="45" alt="AWS"/><br/>
-    <sub>AWS</sub>
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/giri-builds/data-engineering/blob/main/docs/devops/kubernetes-docker.md">
-    <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="45" alt="Docker"/><br/>
-    <sub>Docker</sub>
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/giri-builds/data-engineering/blob/main/docs/devops/kubernetes-docker.md">
-    <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="45" alt="Kubernetes"/><br/>
-    <sub>Kubernetes</sub>
-  </a>
-</td>
-</tr>
-<tr>
-<td align="center">
-  <a href="https://github.com/giri-builds/data-engineering/blob/main/docs/storage/snowflake.md">
+  <a href="https://github.com/giri-builds/gb-wiki">
     <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="45" alt="Snowflake"/><br/>
     <sub>Snowflake</sub>
   </a>
 </td>
 <td align="center">
-  <a href="https://github.com/giri-builds/data-engineering/blob/main/docs/fundamentals/sql-mastery.md">
+  <a href="https://github.com/giri-builds/gb-wiki">
     <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="45" alt="PostgreSQL"/><br/>
     <sub>PostgreSQL</sub>
   </a>
 </td>
 <td align="center">
-  <a href="https://github.com/giri-builds/ai-engineering/blob/main/cheatsheets/fastapi-llm.md">
-    <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="45" alt="FastAPI"/><br/>
-    <sub>FastAPI</sub>
+  <a href="https://github.com/giri-builds/gb-wiki">
+    <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="45" alt="AWS"/><br/>
+    <sub>AWS</sub>
   </a>
 </td>
 <td align="center">
-  <a href="https://github.com/giri-builds/ai-engineering/blob/main/cheatsheets/anthropic-sdk.md">
+  <a href="https://github.com/giri-builds/gb-wiki">
+    <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="45" alt="Docker"/><br/>
+    <sub>Docker</sub>
+  </a>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/giri-builds/gb-wiki">
+    <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="45" alt="Kubernetes"/><br/>
+    <sub>Kubernetes</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/giri-builds/gb-wiki">
+    <img src="https://skillicons.dev/icons?i=terraform&theme=dark" height="45" alt="Terraform"/><br/>
+    <sub>Terraform</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/giri-builds/gb-sage">
     <img src="https://cdn.simpleicons.org/anthropic/191919" height="45" alt="Claude"/><br/>
     <sub>Claude</sub>
   </a>
 </td>
 <td align="center">
-  <a href="https://github.com/giri-builds/data-engineering/blob/main/docs/observability/monitoring-stack.md">
+  <a href="https://github.com/giri-builds/gb-sage">
+    <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="45" alt="LangChain"/><br/>
+    <sub>LangChain</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/giri-builds/gb-sage">
+    <img src="https://cdn.simpleicons.org/qdrant/DC244C" height="45" alt="Qdrant"/><br/>
+    <sub>Qdrant</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/giri-builds/gb-wiki">
     <img src="https://skillicons.dev/icons?i=grafana&theme=dark" height="45" alt="Grafana"/><br/>
     <sub>Grafana</sub>
   </a>
 </td>
 <td align="center">
-  <a href="https://github.com/giri-builds/data-engineering/blob/main/docs/observability/monitoring-stack.md">
-    <img src="https://skillicons.dev/icons?i=prometheus&theme=dark" height="45" alt="Prometheus"/><br/>
-    <sub>Prometheus</sub>
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/giri-builds/data-engineering/blob/main/docs/cloud-aws/aws-infrastructure.md">
-    <img src="https://skillicons.dev/icons?i=terraform&theme=dark" height="45" alt="Terraform"/><br/>
-    <sub>Terraform</sub>
+  <a href="https://github.com/giri-builds/gb-wiki">
+    <img src="https://cdn.simpleicons.org/datadog/632CA6" height="45" alt="Datadog"/><br/>
+    <sub>Datadog</sub>
   </a>
 </td>
 </tr>
