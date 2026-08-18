@@ -30,10 +30,9 @@
 
 </div>
 
-- **Tech Lead — AI Engineer** with 12+ years building and operating production-grade AI systems, large-scale data pipelines, and cloud-native platforms
+- **Tech Lead — Data & AI Engineer** with 12+ years building and operating production-grade AI systems, large-scale data pipelines, and cloud-native platforms
 - Setting technical direction for **LLM-powered agentic workflows, RAG systems, and MCP servers** at Apple Ad Platforms
 - Designing task-oriented agents (planner/executor, tool routing, HITL checkpoints, fallbacks) and evaluation strategies for non-deterministic systems
-- Built an AI-assisted code-migration pipeline (Claude Opus + Qdrant + LibCST) automating Airflow 2.9.2 → 3.2.0 across **1000+ production DAGs — cutting manual effort by 80%**
 - Deep AWS + Kubernetes background with strong ownership of observability, CI/CD, and operational excellence — sustaining **99.99% uptime**
 - **AWS Certified AI Practitioner** — [Verify on Credly](https://www.credly.com/badges/625c0504-9735-4e2c-ab1e-c90de28c8fa4/linked_in_profile) · *AWS ML Associate/Specialty in progress*
 - Portfolio: [giri-builds.github.io/naa-JourneyS](https://giri-builds.github.io/naa-JourneyS/)
